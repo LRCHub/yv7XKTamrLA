@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "春",
+  "base_artist": "カネヨリマサル",
+  "createdAt": "2026-03-06T06:55:19.875161Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1993年、春",
+      "artist": "岡崎律子",
+      "has_synced": true,
+      "path": "select/01_1993年、春_岡崎律子.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/02_春_B'z.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春、風のふいた日",
+      "artist": "MUCC",
+      "has_synced": false,
+      "path": "select/03_春、風のふいた日_MUCC.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春〜spring〜",
+      "artist": "Eir Aoi",
+      "has_synced": true,
+      "path": "select/04_春〜spring〜_Eir_Aoi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春",
+      "artist": "KOTOKO",
+      "has_synced": true,
+      "path": "select/05_春_KOTOKO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "春",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/06_春_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私だけ、春",
+      "artist": "BOL4",
+      "has_synced": true,
+      "path": "select/07_私だけ、春_BOL4.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "春・すとーむ",
+      "artist": "門あさ美",
+      "has_synced": false,
+      "path": "select/08_春・すとーむ_門あさ美.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fortune (For 春)",
+      "artist": "Fin.K.L",
+      "has_synced": true,
+      "path": "select/09_Fortune_(For_春)_Fin.K.L.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "春、恋桜。",
+      "artist": "majiko",
+      "has_synced": true,
+      "path": "select/10_春、恋桜。_majiko.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "春、恋桜。",
+      "artist": "majiko (まじ娘)",
+      "has_synced": true,
+      "path": "select/11_春、恋桜。_majiko_(まじ娘).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "春 mon amour",
+      "artist": "藤村美樹",
+      "has_synced": true,
+      "path": "select/12_春_mon_amour_藤村美樹.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "春 mon amour(コーラス有ヴァージョン)",
+      "artist": "藤村美樹",
+      "has_synced": false,
+      "path": "select/13_春_mon_amour(コーラス有ヴァージョン)_藤村美樹.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋愛写真 -春-",
+      "artist": "大塚愛",
+      "has_synced": false,
+      "path": "select/14_恋愛写真_-春-_大塚愛.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "春~spring~",
+      "artist": "藍井エイル",
+      "has_synced": true,
+      "path": "select/15_春~spring~_藍井エイル.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "春",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/16_春_いきものがかり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春",
+      "artist": "カネヨリマサル",
+      "has_synced": false,
+      "path": "select/pl_01_春_カネヨリマサル.txt"
+    }
+  ]
+}
